@@ -10,10 +10,10 @@ The power amplifier features 2 voltage gain stages and a Class AB output stage, 
 ![PCBback](https://user-images.githubusercontent.com/70813514/178309043-ff16e4c3-6591-4515-9ee7-7db772e3356e.png)
 
 ## Credits to:
-David Rainho
-Gustavo Santos
-Inês Brandão
-Jorge Ribeiro
-Margarida Leal
-Rodrigo Santacomba
+David Rainho\
+Gustavo Santos\
+Inês Brandão\
+Jorge Ribeiro\
+Margarida Leal\
+Rodrigo Santacomba\
 Tiago Ribeiro

@@ -1,4 +1,4 @@
-# FEUP_PI_Amplificador20W
+# FEUP PI Amplificador20W
  
 20W Audio Amplifier circuit developed for the capstone project of the Bachelor in Electrical and Computer Enginnering course.
 The power amplifier features 2 voltage gain stages and a Class AB output stage, along with a DC servo for low output DC offset, a power supply filter featuring a capacitance multiplier and an optional input network.
